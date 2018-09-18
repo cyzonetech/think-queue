@@ -19,8 +19,8 @@
     },
     "require": {
         "topthink/think-helper": ">=1.0.4",
-        "cyzonetech/think-installer": ">=1.0.10",
-	"cyzonetech/framework": "5.1.*"
+        "cyzonetech/think-installer": "^2.0",
+	    "cyzonetech/framework": "5.1.*"
     },
     "extra": {
         "think-config": {
